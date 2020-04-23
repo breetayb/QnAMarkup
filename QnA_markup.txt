@@ -1,0 +1,49 @@
+Title: COVID-19 Employment Options for Employees
+Description: A QnA offering the different legal options for employees during the COVID-19 crisis. As an "Essential Business," employees have more risk of exposure to COVID-19, but also have more options for staying home and receiving some sort of pay. This QnA explores these options and helps the employee choose what is right for them. 
+
+Q(1): Are you here because you have a question about COVID-19?
+A: Yes.
+	Q(1.1): Great! Then you are in the right place. <br><br> First, have you tested positive for COVID-19 and are you still experiencing symptoms of the virus?
+	A: Yes
+		Q(1.1.1): Sorry to hear that! <br><br> But, you do have a few options. Do you have any paid sick leave left? 
+		A: Yes, I think so
+			Q(1.1.1.1): Employees can use 2 weeks of paid sick leave one time between April and December 2020 under a qualifying event due to COVID-19 related issues. <br><br> Are you or an immediate family member sick or quarantined?
+			A: Yes
+				Q(1.1.1.1.1): Under the Family First Coronavirus Response Act you may receive 80 hours of paid leave for 100% of your average pay, capped at $5,110. 
+			A: No
+				Q(1.1.1.1.2): You are entitled to use the Family Medical Leave Act (FMLA) to maintain your position with Pfister Bulk Transport. Although there is no continuation of pay, you may keep your insurance and benefits at the rate you typically pay. FMLA lasts for 10 weeks. <br><br>  There are an additional 2 weeks if you have a childcare issue. GOTO:1.1.2.2
+		A: No, I don't think so
+			Q(1.1.1.2): That's okay! There are still a lot of options. GOTO:1.1.1.1.2
+	A: No
+		Q(1.1.2): If you have NOT tested positive, do you have symptoms of COVID-19? That can include a fever, dry cough, and shortness of breath.
+		A: Yes.
+			Q(1.1.2.1): DO NOT go to the emergency room or clinic. <br><br> Instead, you need to download the TeleDoc App. You can set up an appointment for a virtual visit with a doctor and they can set you up with getting tested if they think it is necessary. <br><br> Mike is covering the cost of TeleDoc appointments and testing. If you have questions about setting up the app or how to use TeleDoc, you can call Dawn at 920-849-3716. 
+		A: No.
+			Q(1.1.2.2): Okay, good! I'm glad you're not feeling sick. Are you having an issue with lack of childcare? For example, is you child's daycare closed?
+			A: Yes, I'm having a childcare issue. 
+				Q(1.1.2.2.1): The Family and Medical Leave Act (FMLA) has been expanded to include lack of childcare related to COVID-19 as a qualifying event. Pfister Bulk Transport will need documentation or certification from your daycare stating that it is no longer providing childcare services. <br><br> Employees can use up to 12 weeks of paid leave for lack of childcare. If you have already used 2 weeks, you will have 10 weeks left. The pay is 2/3 of your average pay and is capped at $12,000. Benefits are still available at the shared premium. 
+			A: No, I'm having a different problem. 
+				Q(1.1.2.2.2): Do you still want to work?
+				A: I want to keep working.
+					Q(1.1.2.2.2.1): Okay, that is an option. So far, drivers are still out and rolling. You don't need to worry about this right now. 
+				A: I want to go home. 
+					Q(1.1.2.2.2.2): Alright, let's go over your options. Are you in a position to take a leave of absence without pay? <br><br> This would be an unpaid furlough for a pre-determined and agreed upon timeframe. You will still be employed and can maintain your insurance. Benefits will stop after 30 days, but you can pay your full premium to maintain benefits and not go on COBRA. 									
+					A: Yes, I want to take a leave of absence.
+					A: No, I can't afford this option.
+						Q(1.1.2.2.2.2.2): Okay, Let's look at another option. <br><br> Another option to stay at home is to go on unemployment. Unemployment is paid by the state out of our unemployment insurance due to a lack of work related to COVID-19. You will receive payments up to $370 + $600 per week, depending on your average pay. There are no benefits allowed with unemployment, except for COVID-19 testing. 
+						A: Yes, I am interested in going on unemployment.
+							Q(1.1.2.2.2.2.2.1): Great, first you'll need to talk with Mike or with Dispatch office and let them know you are willing to go on unemployment. You can file a claim after you've been out of work for 1 week. 
+						A: No, this is not what I want to do.
+							Q(1.1.2.2.2.2.2.2): Let's just check one other thing. Are you taking care of a family member in your home that is sick or quarantined? 
+							A: Yes, I am.
+								Q(1.1.2.2.2.2.2.2.1): If you are caring for a family member in your home that is sick or quarantined, you fall under expanded FMLA. You can 2 weeks of emergency sick leave between April and December 2020. You may receive 80 hours of paid leave for 100% of your average pay, capped at $5,110. After those two weeks, your job will be protected under FMLA for 10 more weeks. Those 10 weeks will be unpaid, but you can maintain your benefits at the same rate you normally pay. 
+							A: No, I am not. 
+								Q(1.1.2.2.2.2.2.2.2): You can choose to stay home, but it will be unpaid. You will be responsible for maintaining the premiums of your insurance and benefits. 
+				A: I want to know my options. 
+					Q(1.1.2.2.2.3): Okay, let's go over your options. GOTO:1.1.2.2.2.2
+A: No. 
+	Q(1.2): I don't think you're in the right place! Are you sure you don't have a question about COVID-19? 
+	A: Yes, I'm sure. I don't have any questions.
+		Q(1.2.1): I don't think we can help you right now. If you aren't sure, try calling the office at 920-849-2939.
+	A: No, I'm not sure. Maybe I do have some questions!
+		Q(1.2.2): Let's try this again GOTO:1
